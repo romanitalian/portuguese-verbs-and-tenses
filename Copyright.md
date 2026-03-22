@@ -2,7 +2,7 @@
 
 ## App Copyright
 
-**Copyright:** 2025 Roman Italian. All rights reserved.
+**Copyright:** 2026 Roman Romadin. All rights reserved.
 
 The name of the person or entity that owns the exclusive rights to the Portuguese Verbs app. For App Store Connect, use only: `2025 Roman Italian` (do not include a URL).
 
